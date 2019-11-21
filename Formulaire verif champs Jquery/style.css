@@ -1,0 +1,46 @@
+
+
+.bord {
+
+    border : rgb(218, 39, 39) solid 3px;
+    width: 15%;
+    height: 25% ;
+    position: relative;
+    left: 35%;
+
+    padding: 2%;
+    
+}
+
+.error{
+
+   position: relative;
+   left: 34%;
+   top: 35%;
+   color: red;
+   
+}
+
+.mail{
+
+    padding: 7.5%
+}
+
+.ps{
+
+padding: 1%
+
+}
+
+
+.mdp{
+
+    padding: 0.5%
+}
+
+
+.bout{
+    margin: 7%;
+    padding: 7%
+    
+}
